@@ -19,7 +19,7 @@ Speed
 User experience
 
 ## Algorithm
-
+https://drive.google.com/file/d/14C-ow33ntUYGfni1GUCjJt2UsYqCf9fd/view?usp=drive_link
 ## Result
-
+Few-shot prompting produced the most accurate and coherent summaries across platforms, followed by chain-of-thought prompting. Overall, ChatGPT and Claude delivered better summarization quality than Gemini and Copilot.
 
